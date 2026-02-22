@@ -1,0 +1,15 @@
+Zev's GitHub Nightmare
+
+Zev woke in a cold sweat, the glow of a thousand browser tabs still ringing in his ears. In his dream he sat at a tiny desk, fingers poised, ready to make a GitHub account — an ordinary task turned into an epic.
+
+First came the username monsters. Every name he typed was already claimed: Zev, Zev123, ZevTheBrave, Zev-2026. They laughed and snapped the keyboard away. He tried creative variations: Z3v, Zev-From-The-Future, but the monsters only grew hungrier.
+
+Next a labyrinth of password rules unfolded: at least one uppercase, one lowercase, one number, one symbol, one haiku, and a brief essay on your coding philosophy. Whenever Zev thought he had it, the form sent him back with a red stamp that read "Not secure enough." A tiny captcha sprite demanded, "Select all images with a commit history." None of the pictures had commits.
+
+Zev pressed Submit and the Verification Email Sphinx appeared, draped in spam filters and delayed delivery. "Check your inbox," it whispered, then ate the notification. Zev refreshed, waited, refreshed again. The email floated just out of reach, caught in an endless 'pending' loop like a ghost in the network.
+
+When he finally reached the final screen, a merge-conflict troll blocked the path, brandishing confusing warnings about two branches that both claimed to be his. "Resolve or be rebased," it grinned. Zev opened his IDE and tried to talk it through; the troll only responded with more diffs.
+
+Zev woke up laughing — relieved to be in his own bed and not inside a pull request. He checked his real inbox, typed a simple, unclaimed username, chose a humble but valid password, and the verification email arrived like sunlight. Creating accounts, he realized, is a small adventure — but far less monstrous with coffee and patience.
+
+The end.
